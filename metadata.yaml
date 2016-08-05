@@ -1,0 +1,39 @@
+_repo: King-Coal---a-Novel_7522
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sinclair, Upton
+    aliases:
+    - Garrison, Frederick
+    - Sinclair, Upton Beall
+    - Fitch, Clarke
+    birthdate: 1878
+    deathdate: 1968
+    gutenberg_agent_id: '88'
+    url: http://www.gutenberg.org/2009/agents/88
+    wikipedia: http://en.wikipedia.org/wiki/Upton_Sinclair
+description: "King Coal is a 1917 novel by Upton Sinclair that describes the poor\
+  \ working conditions in the coal mining industry in the western United States during\
+  \ the 1910s, from the perspective of a single protagonist, Hal Warner. As in his\
+  \ earlier work, The Jungle, Sinclair uses the novel to express his socialist viewpoint.\
+  \ The book is based on the 1913-1914 Colorado coal strikes and written just after\
+  \ the Ludlow massacre. The sequel to King Coal was posthumously published under\
+  \ the title, The Coal War.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7522'
+  wikidata: Q16386559
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Coal miners -- Fiction'
+- !lcsh 'Coal mines and mining -- Fiction'
+- GITenberg
+title: 'King Coal : a Novel'
+url: http://www.gutenberg.org/ebooks/7522
+wikipedia:
+- https://en.wikipedia.org/wiki/King_Coal
